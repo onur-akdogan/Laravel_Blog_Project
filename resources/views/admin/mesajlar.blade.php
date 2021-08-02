@@ -92,7 +92,7 @@
                                                 class="ni ni-fat-remove text-red ni-3x"></i></a>
 
                                     </td>
-                                    <td>
+                                    <td4>
                                         {{$messages->mesajContent}}
 
 
@@ -117,7 +117,7 @@
 
 
 
-                                    </td>
+                                    </td4>
 
                                 </tr>
                             @endforeach
