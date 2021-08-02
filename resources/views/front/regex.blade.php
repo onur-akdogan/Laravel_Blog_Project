@@ -10,8 +10,7 @@
     }  .col-md-4{
         width: 20%;
        color: #0c85d0;!important;
-
-                 }
+ }
 </style>
 <?php
 use PHPHtmlParser\Dom;
